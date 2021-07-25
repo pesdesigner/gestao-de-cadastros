@@ -1,0 +1,32 @@
+{
+    "produtos": [
+        {
+            "id": 1,
+            "photo": "https://graficoeweb.com.br/landing-page/assets/products/watch-2.png",
+            "name": "Relógio inteligente",
+            "description": "Produto disponível. Loja Oficial",
+            "price": 2700.00
+        },
+        {
+            "id": 2,
+            "photo": "https://graficoeweb.com.br/landing-page/assets/products/cameras.png",
+            "name": "Câmera digital",
+            "description": "Produto disponível. Loja Oficial",
+            "price": 500.00
+        },
+        {
+            "id": 3,
+            "photo": "https://graficoeweb.com.br/landing-page/assets/products/iphone-x.png",
+            "name": "IPhone X",
+            "description": "Produto disponível. Loja Oficial",
+            "price": 5700
+        },
+        {
+            "id": 4,
+            "photo": "https://graficoeweb.com.br/landing-page/assets/products/speakers.png",
+            "name": "Cx. de Som",
+            "description": "Produto disponível. Loja Oficial",
+            "price": 500
+        }
+    ]
+}
